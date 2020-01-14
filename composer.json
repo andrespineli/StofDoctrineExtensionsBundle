@@ -1,6 +1,6 @@
 {
     "name": "andrespineli/doctrine-extensions-bundle",
-    "type": "symfony-bundle",
+    "type": "library",
     "description": "Integration of the gedmo/doctrine-extensions with Symfony2",
     "keywords": ["tree", "behaviors", "doctrine2", "extensions", "gedmo", "sluggable","loggable", "translatable", "nestedset", "sortable", "timestampable"],
     "homepage": "https://github.com/stof/StofDoctrineExtensionsBundle",
